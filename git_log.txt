@@ -1,0 +1,10 @@
+93c551e Personalize hello message
+9c4e7be Add hello_git.py
+8702c2d Initial commit: Add README
+e4b7758 Bonus FALSE, to rework
+790eb7d Problem 4
+dac2d8d Problem 3
+ca023f5 Problem 2
+0607e67 Add my name and date
+7bcb689 Add GitHub Classroom autograding configuration
+2dc2daa Initial commit
